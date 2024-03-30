@@ -1,0 +1,23 @@
+{
+  "id": "3271305",
+  "name": "new_weight",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9322674",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "12872656",
+      "name": "公共-微信",
+      "font_class": "gonggong-weixin",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    }
+  ]
+}

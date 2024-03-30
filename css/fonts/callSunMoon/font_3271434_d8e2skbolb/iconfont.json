@@ -1,0 +1,30 @@
+{
+  "id": "3271434",
+  "name": "callSunMoon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1457",
+      "name": "烈日",
+      "font_class": "lieri",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1001740",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "3402343",
+      "name": "月亮",
+      "font_class": "yueliang",
+      "unicode": "e6b8",
+      "unicode_decimal": 59064
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.w {
+    overflow: hidden;
+    width: 1150px;
+    margin: auto;
+    /* background-color: #fff; */
+}
+.ww {
+    overflow: hidden;
+    width: 1600px;
+    margin: auto;
+    background-color: antiquewhite;
+}
+.clear {
+    clear:both;
+}
+a {
+    color: white;
+    text-decoration: none!important;
+}
+.main {
+    
+    background-color: #ededef;
+}
+/*这个定义动画暂时没用*/
+@keyframes box_flexible {
+    /*开始*/
+     0% {
+         transform: translateX(0);
+     }
+     100% {
+         transform: translateX(10px);
+     }
+    /*结束*/
+}
+
+@keyframes change {
+    0% {
+        color: #a6ce39;
+        opacity: 0.4;
+    }
+    30% {
+        color: #a6ce39;
+        opacity: 0.6;
+    }
+    50% {
+        color: #a6ce39;
+        opacity: 0.7;
+    }
+    80% {
+        color: #a6ce39;
+        opacity: 0.8;
+    }
+    100% {
+        color: #a6ce39;
+        opacity: 1;
+    }
+}
+@keyframes changeBack {
+    0% {
+        color: black;
+        opacity: 0.1;
+    }
+    30% {
+        color: black;
+        opacity: 0.3;
+    }
+    50% {
+        color: black;
+        opacity: 0.5;
+    }
+    80% {
+        color: black;
+        opacity: 0.8;
+    }
+    100% {
+        color: black;
+        opacity: 1;
+    }
+}
+
